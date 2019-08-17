@@ -410,6 +410,7 @@ select {
 // Remove the dropdown arrow in Chrome from inputs built with datalists.
 //
 // Source: https://stackoverflow.com/a/54997118
+
 [list]::-webkit-calendar-picker-indicator {
   display: none;
 }
